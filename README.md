@@ -16,7 +16,7 @@ The objective of this project is to provide a user-friendly platform for analyzi
 Contributions to this project are welcome! Whether it’s improving dashboard design, adding new visualizations, or conducting further analysis, your input is valuable in advancing our understanding of unicorn growth trends.
 
 ## **About the Author**
-I am passionate about data analysis and visualization, dedicated to leveraging data for business insights and strategic decision-making. Connect with me on LinkedIn.
+I am passionate about data analysis and visualization, dedicated to leveraging data for business insights and strategic decision-making. Connect with me on [LinkedIn](https://www.linkedin.com/in/harshit-rajpurohit/).
 
 ## **Dashboard Preview**
 
