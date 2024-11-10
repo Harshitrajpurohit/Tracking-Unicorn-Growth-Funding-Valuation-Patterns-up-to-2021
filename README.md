@@ -4,10 +4,10 @@ Welcome to the Tracking Unicorn Growth: Funding & Valuation Patterns up to 2021 
 
 ## **Key Features**
 
-**Interactive Dashboard:** Visualize unicorn growth trends through interactive charts and graphs, exploring data by year, industry, and geographic location.
-**Comprehensive Analysis:** Dive deep into funding rounds and valuation changes, uncovering insights that can inform investment strategies and market understanding.
-**User-Friendly Interface:** Navigate the dashboard with ease and explore data interactively to gain a deeper understanding of unicorn growth patterns.
-**Data Transparency:** Access detailed data tables providing comprehensive information on funding rounds and valuations, promoting transparency and reproducibility in analysis.
+**Interactive Dashboard:** Visualize unicorn growth trends through interactive charts and graphs, exploring data by year, industry, and geographic location. <br>
+**Comprehensive Analysis:** Dive deep into funding rounds and valuation changes, uncovering insights that can inform investment strategies and market understanding. <br>
+**User-Friendly Interface:** Navigate the dashboard with ease and explore data interactively to gain a deeper understanding of unicorn growth patterns. <br>
+**Data Transparency:** Access detailed data tables providing comprehensive information on funding rounds and valuations, promoting transparency and reproducibility in analysis. <br>
 
 ## **Objective**
 The objective of this project is to provide a user-friendly platform for analyzing unicorn growth data and exploring various factors influencing their funding and valuation patterns over time.
