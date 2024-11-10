@@ -18,13 +18,13 @@ Contributions to this project are welcome! Whether it’s improving dashboard de
 ## **About the Author**
 I am passionate about data analysis and visualization, dedicated to leveraging data for business insights and strategic decision-making. Connect with me on LinkedIn.
 
-## **Dashboard Preview **
+## **Dashboard Preview**
 
 ### **Main Page**
 
 ![Dashboard](https://github.com/user-attachments/assets/9830c66e-27b6-4031-80ab-c8b79ec387de)
 
-### ** Charts**
+### **Charts**
 
 ![Top-Valuation-Funding](https://github.com/user-attachments/assets/804e1ea7-560d-4523-a822-c0296f6b1981)
 
